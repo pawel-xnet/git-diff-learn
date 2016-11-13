@@ -10,4 +10,5 @@
 10
 11a
 FEAT1- last line blah blah
-hotfix - adsfasdf
+hotfix
+zmiany do mastera
