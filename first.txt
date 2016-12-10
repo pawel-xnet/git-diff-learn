@@ -1,14 +1,5 @@
-1x
+1a
 2a
 3a
-4A
-5
-6
-7a
-8a
-9a
-10
-11a
-FEAT1- last line blah blah
-hotfix
-zmiany do mastera
+4a
+5a

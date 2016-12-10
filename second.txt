@@ -1,11 +1,5 @@
-a1
-a2a
-a3
-a4b
-a5b
-a6
-a7b
-a8
-a10
-a11b
-zmiany do mastera
+1b
+2b
+3b
+4b
+5b
