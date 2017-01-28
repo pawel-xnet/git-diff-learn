@@ -21,3 +21,4 @@
 21-remote
 22-remote
 23-remote
+24-local
